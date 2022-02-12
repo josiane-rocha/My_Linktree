@@ -1,0 +1,36 @@
+@media(max-width: 500px){
+
+    .card{
+        z-index: 2;
+        margin-top: 5%;
+    }
+    
+    main.content{
+        background-color: #FFFFFF;
+        width: 350px;
+        height: 900px;
+    }
+
+    div.my-informations img{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        margin-top: 10px;
+        margin-left: 25%;
+        margin-bottom: 10px;
+    }
+
+    div.click-here{
+        width: 300px;
+        height: 60px;
+        background-color: #22c1c3;
+        border-radius: 50px;
+        margin-top: 5%;
+    }
+
+    img.icon{
+        width: 50px;
+        height: 50px;
+    }
+    
+}
