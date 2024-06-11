@@ -1,4 +1,4 @@
-![miniatura-linktree](miniatura-linktree.png)
+![miniatura-linktree](miniatura-linktree.jpeg)
 
 ## 🔖 Sobre
 
